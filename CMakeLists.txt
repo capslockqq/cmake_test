@@ -35,7 +35,7 @@ message(${BUILD_TYPE})
 
   ### END TOOLCHAIN SETUP AREA #############################################
 
-  include(../generic-gcc-avr.cmake)
+  include(generic-gcc-avr.cmake)
 
   ##########################################################################
   # name your project
