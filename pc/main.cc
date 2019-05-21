@@ -15,5 +15,5 @@ int main(void)
    hej();
    CLed t;
    t.DoStuff();
-   printf("PC\n\r");
+   printf("PC - \n\r");
 }
