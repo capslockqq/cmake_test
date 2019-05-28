@@ -13,6 +13,7 @@ int main(void)
     PORTC = 0xFF; //Turns ON All LEDs
     _delay_ms(1000); //1 second delay
     PORTC= 0x00; //Turns OFF All LEDs
-    _delay_ms(1000); //1 second delay
+    _delay_ms(1010); //1 second delay
+    
   }
 }
